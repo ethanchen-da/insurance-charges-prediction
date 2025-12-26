@@ -1,0 +1,13 @@
+# IDE
+.idea/
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# OS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
