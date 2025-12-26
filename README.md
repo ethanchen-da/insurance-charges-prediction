@@ -37,3 +37,8 @@ The dataset contains demographic and lifestyle information, including:
 - Matplotlib, Seaborn
 - Scikit-learn
 - Statsmodels
+
+images/
+├── [corr_heatmap.png]([url](https://github.com/ethanchen-da/insurance-charges-prediction/blob/dda6fec70d354ea1bf3ec84055f81257cae238b4/Heatmap.png))
+├── actual_vs_predicted.png
+└── coefficients.png
